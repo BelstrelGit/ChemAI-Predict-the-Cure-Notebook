@@ -5,7 +5,7 @@
 Метрика — средний RMSE по трём таргетам на исходной шкале.
 
 Финальный submission: `submissions/submission_raw_best_cc50ext_b15.csv`,
-public score **264.30**.
+public score около **264.30**(в разные запуски был также **264.35**).
 
 ## Команда 25
 
