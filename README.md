@@ -1,4 +1,3 @@
-# ChemAI-Predict-the-Cure-Notebook
 # ChemAI: Predict the Cure
 
 Решение хакатона по предсказанию противовирусной активности молекул.
