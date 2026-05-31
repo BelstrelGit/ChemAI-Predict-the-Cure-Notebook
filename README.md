@@ -19,6 +19,7 @@ external_data/
   chembl_cytotoxicity_cc50_strict_2000_aggregated.csv  # ChEMBL CC50-like, подготовленный
 submissions/                                           # создаётся при Run All
 README.md
+ChemAI Predict the Cure. Command 25.pptx               # презентация
 ```
 
 ## Подход
