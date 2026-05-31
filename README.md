@@ -161,5 +161,9 @@ submission_raw_best_cc50ext_b22.csv           # альтернативный β 
 
 ## Презентация
 
-- Видео-питч : link
+- Видео-питч : https://disk.yandex.ru/i/LmbGKlpLcekoug
+
+## Kaggle competition
+
+- https://www.kaggle.com/competitions/chem-ai-predict-the-cure
 
